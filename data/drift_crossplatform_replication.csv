@@ -1,0 +1,11 @@
+pair,shared_vocab,P(top_b | top_a),chance,lift
+truth-bluesky,157586,0.455,0.097,4.71
+truth-mastodon,24979,0.234,0.1,2.34
+truth-reddit,387175,0.544,0.081,6.73
+truth-twitter,424436,0.632,0.085,7.41
+bluesky-mastodon,25431,0.283,0.101,2.82
+bluesky-reddit,196167,0.611,0.128,4.78
+bluesky-twitter,186512,0.728,0.155,4.69
+mastodon-reddit,25467,0.701,0.251,2.79
+mastodon-twitter,25416,0.819,0.327,2.51
+reddit-twitter,571170,0.614,0.087,7.04

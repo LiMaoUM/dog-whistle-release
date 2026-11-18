@@ -1,0 +1,41 @@
+platform,term,likelihood,target_group,family
+reddit,paleocons,MEDIUM,right‑wing / conservative factional audiences,"Political right (conservatives, Trump supporters)"
+mastodon,capping,MEDIUM,Youth/in-group slang communities / potential gang/violent-threat contexts,White nationalists / far-right / extremists
+mastodon,dynasty,MEDIUM,Elitist / authoritarian nostalgia groups,White nationalists / far-right / extremists
+truth,mushmouth,MEDIUM,Black people / people with speech impediments,Black people / other racialized groups
+reddit,schizo,HIGH,People with mental illness / neurodivergent people,Other / none / unclear
+mastodon,ancestors,MEDIUM,Ethno-nationalist / white nationalist audiences,White nationalists / far-right / extremists
+twitter,cnts,MEDIUM,Women or political opponents (gendered/profane insult),Women
+mastodon,pcs,MEDIUM,Conservatives/alt‑right / anti‑PC communities,White nationalists / far-right / extremists
+bluesky,autocrat,MEDIUM,Pro‑authoritarian audiences / democratic institutions (signal of approval),White nationalists / far-right / extremists
+reddit,triad,MEDIUM,East Asian people / Chinese communities,Black people / other racialized groups
+bluesky,civilisation,MEDIUM,Immigrants / non‑Western groups,Immigrants / Latinos
+bluesky,eurasia,MEDIUM,White nationalists / Eurasianist ideological groups,Black people / other racialized groups
+truth,frog,HIGH,Alt‑right / white nationalist meme culture,White nationalists / far-right / extremists
+truth,shapiro,MEDIUM,conservatives (and sometimes antisemitic targeting of Jewish figures),"Jewish people / antisemitic ""elites"""
+reddit,fatimid,MEDIUM,Shia Muslims / Islamic groups,Muslims / Arabs / Islam
+twitter,freemason,HIGH,"Elites / conspiratorial ""globalists"" (sometimes antisemitic subtext)","Jewish people / antisemitic ""elites"""
+reddit,races,MEDIUM,Racialized groups,Black people / other racialized groups
+twitter,epochtimes,HIGH,Right‑wing/conspiratorial audiences,"Elites, media and conspiracy audiences"
+mastodon,antichrist,MEDIUM,Political/religious opponents (varies),"Political right (conservatives, Trump supporters)"
+truth,troof,HIGH,QAnon / conspiracy communities,"Elites, media and conspiracy audiences"
+twitter,bident,MEDIUM,Joe Biden / Democrats,"Political left (liberals, Democrats, progressives)"
+bluesky,scion,MEDIUM,Elites / dynastic families (anti‑globalist narratives),"Elites, media and conspiracy audiences"
+reddit,conquering,MEDIUM,Immigrant/foreign groups or ideological opponents,Immigrants / Latinos
+truth,preserver,MEDIUM,Nativist / ethnic-preservation rhetoric,Immigrants / Latinos
+mastodon,bros,MEDIUM,"Male-dominated online political subcultures (e.g., “alt-bro”/“dirtbag” communities)",Other / none / unclear
+mastodon,farmer,MEDIUM,Rural/white working‑class identity (ethnonationalist appeal),White nationalists / far-right / extremists
+reddit,monarchists,MEDIUM,Authoritarian/neo‑monarchist / elitist communities,White nationalists / far-right / extremists
+twitter,epstien,MEDIUM,Elites / Conspiracy-linked individuals (often political figures),"Elites, media and conspiracy audiences"
+mastodon,tribe,MEDIUM,Ethnic/racial identity groups (often white‑identity contexts),Black people / other racialized groups
+reddit,downs,HIGH,People with Down syndrome / disabled people,Other / none / unclear
+mastodon,bible,HIGH,Christian nationalists / religious conservatives,White nationalists / far-right / extremists
+mastodon,hungary,MEDIUM,Global far-right / illiberal nationalist sympathizers,White nationalists / far-right / extremists
+truth,okeefe,MEDIUM,Conservative/activist in-group (Project Veritas supporters),"Political left (liberals, Democrats, progressives)"
+bluesky,cadre,MEDIUM,Radical/paramilitary groups / organized activists,White nationalists / far-right / extremists
+truth,skin,MEDIUM,Race / white supremacists (ambiguous),Black people / other racialized groups
+reddit,archon,MEDIUM,“ELITES” / CONSPIRACY FIGURES,"Elites, media and conspiracy audiences"
+reddit,financier,MEDIUM,Jewish people / “international bankers”,"Jewish people / antisemitic ""elites"""
+truth,purging,MEDIUM,Political opponents / marginalized groups,Other / none / unclear
+truth,obamas,MEDIUM,Barack Obama / his family / perceived liberal elites (racialized contexts),Black people / other racialized groups
+truth,transition,MEDIUM,Transgender people / gender-identity debates,LGBTQ+
